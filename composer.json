@@ -1,11 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "shipu/filament-starter-kit",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "barryvdh/laravel-debugbar": "^3.14",
+        "barryvdh/laravel-ide-helper": "^3.1",
         "bezhansalleh/filament-shield": "^3.2",
         "filament/filament": "^3.2",
         "jeffgreco13/filament-breezy": "^2.4",
