@@ -9,6 +9,8 @@ Packages included:
 - bezhansalleh/filament-shield (For Role and Permission Management)
 - barryvdh/laravel-debugbar (For Debugging)
 - barryvdh/laravel-ide-helper (For IDE Helper)
+- ralphjsmit/laravel-filament-components (For Filament Components)
+- phpsa/filament-password-reveal (For Password Reveal)
 
 ## Installation
 ```shell

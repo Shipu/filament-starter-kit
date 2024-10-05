@@ -12,7 +12,9 @@
         "filament/filament": "^3.2",
         "jeffgreco13/filament-breezy": "^2.4",
         "laravel/framework": "^11.9",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
+        "phpsa/filament-password-reveal": "^2.1",
+        "ralphjsmit/laravel-filament-components": "^2.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
